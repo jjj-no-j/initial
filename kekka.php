@@ -48,7 +48,7 @@
             }
 		?>
 	</font><br>
-		<a href="form01.php">もう一回</a>
+		<a href="index.php">もう一回</a>
 	</body>
 </html>
 <hr><br>kekka.php<br>
